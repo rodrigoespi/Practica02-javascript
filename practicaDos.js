@@ -174,7 +174,7 @@ console.log("Personas que tienen como hobby leer");
 console.log(filtrarPersonasLeer(personas));
 console.log("--------------------------------------")
 */
-/*----------------- 12 ----------------*/
+/*----------------- 12 ----------------
 
 const datosServicio = [
   {dia: "lunes", encargado:"Maria"},
@@ -197,7 +197,7 @@ const personaEncargadaServicio = (lista, diaServicio) =>{
 let diaUsuario = prompt("¿Qué día deseas consultar?");
 let resultado = personaEncargadaServicio(datosServicio, diaUsuario);
 console.log(resultado);
-
+*/
 /*----------------- 13 ----------------
 const productos = [
   {producto: "teclado", precio:20},
